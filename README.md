@@ -1,2 +1,2 @@
 # prework-study-guide
-A study guide for UT bootcamp course pre-work.
+A study guide for UT bootcamp course prework.
